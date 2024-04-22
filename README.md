@@ -4,18 +4,18 @@ Api en Docker Oracle
 **Instalaciones necesarias en el Docker**:
 1. python3
 Comandos:
-sudo apt update
-sudo apt install python3
+  sudo apt update
+  sudo apt install python3
 
-2. pip
+3. pip
 Comandos:
-sudo apt update
-sudo apt install python3-pip
+  sudo apt update
+  sudo apt install python3-pip
 
-3. nano
+4. nano
 Comandos:
-sudo apt update
-sudo apt install nano
+  sudo apt update
+  sudo apt install nano
 
 **Librerías necesarias de Python:**
 - flask
