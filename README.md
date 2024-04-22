@@ -2,7 +2,7 @@
 Api en Docker Oracle
 
 **Instalaciones necesarias en el Docker**:
-1. python3
+1. python3  
 Comandos:  
 sudo apt update  
 sudo apt install python3  
