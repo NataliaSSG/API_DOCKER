@@ -7,15 +7,15 @@ Comandos:
 sudo apt update  
 sudo apt install python3  
 
-3. pip
-Comandos:
-sudo apt update
-sudo apt install python3-pip
+2. pip
+Comandos:  
+sudo apt update  
+sudo apt install python3-pip  
 
-4. nano
-Comandos:
-  sudo apt update
-  sudo apt install nano
+3. nano
+Comandos:  
+sudo apt update  
+sudo apt install nano  
 
 **Librerías necesarias de Python:**
 - flask
