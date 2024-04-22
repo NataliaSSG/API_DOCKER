@@ -7,12 +7,12 @@ Comandos:
 sudo apt update  
 sudo apt install python3  
 
-2. pip
+2. pip  
 Comandos:  
 sudo apt update  
 sudo apt install python3-pip  
 
-3. nano
+3. nano  
 Comandos:  
 sudo apt update  
 sudo apt install nano  
